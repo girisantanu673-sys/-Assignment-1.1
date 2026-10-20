@@ -1,7 +1,3 @@
-Here is a complete, well-structured guide and response to help you finish your assignment successfully.
-
----
-
 ### Part 1: Explanatory Paragraph (The Core Task)
 
 When you type a URL into your browser (the **client**), it initiates the **request-response cycle** using secure protocols (**HTTPS**, an encrypted version of **HTTP**). First, your browser asks a Domain Name System (DNS) server to translate the website's web address into an IP address. The browser then sends an **HTTP request** to the remote **server** hosting the site. If the website is **static**, the server immediately sends back pre-built HTML, CSS, and JavaScript files. If the website is **dynamic**, the server interacts with a **database** to process user data and generate custom content on the fly before sending an **HTTP response** back. Finally, your browser receives these files and renders them visually onto your screen.
